@@ -1,0 +1,14 @@
+nav{
+    background-color: teal;
+    padding:10px 0px;
+    text-align: center;
+    color:aliceblue;
+}
+nav ul{
+    display:flex;
+    justify-content: center;
+}
+nav ul li a{
+    margin: 0px 15px;
+
+}
